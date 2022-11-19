@@ -1,8 +1,8 @@
-- 👋 Hi, I’m LeVanManh
-- 👀 I’m interested in Mobile App Developer
-- 🌱 I’m currently learning Flutter - Dart
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me https://www.facebook.com/Levanmanh.AnhBao
+- 👋 Xin chào, tôi là Lê Văn Mạnh
+- 👀 Mobile App Developer(Flutter-Dart)
+- 🌱 Tôi hiện đang học Flutter - Dart
+- 💞️ Tôi đang tìm cách hợp tác trên ...
+- 📫 Gamil: levanmanh24062002@gmail.com
 
 
 ## 🌐Socials
