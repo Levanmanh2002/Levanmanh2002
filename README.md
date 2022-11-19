@@ -1,8 +1,8 @@
 ## 💫About Me :
-- 👋 Xin chào, tôi là Lê Văn Mạnh
-- 👀 Mobile App Developer(Flutter-Dart)
-- 🌱 Tôi hiện đang học Flutter - Dart
-- 💞️ Tôi đang tìm cách hợp tác trên ...
+- 👋 Hello, I'm Le Van Manh
+- 👀 Mobile App Developer(Flutter)
+- 🌱 I am currently learning Flutter - Dart
+- 💞️ I'm looking to collaborate on...
 - 📫 Gamil: levanmanh24062002@gmail.com
 
 
