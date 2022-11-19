@@ -1,4 +1,4 @@
-# 💫About Me :
+## 💫About Me :
 - 👋 Xin chào, tôi là Lê Văn Mạnh
 - 👀 Mobile App Developer(Flutter-Dart)
 - 🌱 Tôi hiện đang học Flutter - Dart
