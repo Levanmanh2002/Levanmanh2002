@@ -3,7 +3,7 @@
 - 👀 Mobile App Developer(Flutter)
 - 🌱 I am currently learning Flutter - Dart
 - 💞️ I'm looking to collaborate on...
-- 📫 Gamil: levanmanh24062002@gmail.com
+- 📫 Gmail: levanmanh24062002@gmail.com
 
 
 ## 🌐Socials :
